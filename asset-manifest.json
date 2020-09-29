@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/.github.io/distance-calculator_react-mapbox-gl/static/css/main.9134aa92.chunk.css",
+    "main.js": "/.github.io/distance-calculator_react-mapbox-gl/static/js/main.f9bd15d3.chunk.js",
+    "main.js.map": "/.github.io/distance-calculator_react-mapbox-gl/static/js/main.f9bd15d3.chunk.js.map",
+    "runtime-main.js": "/.github.io/distance-calculator_react-mapbox-gl/static/js/runtime-main.3b189a3e.js",
+    "runtime-main.js.map": "/.github.io/distance-calculator_react-mapbox-gl/static/js/runtime-main.3b189a3e.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/.github.io/distance-calculator_react-mapbox-gl/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.61a1cd38.chunk.js": "/.github.io/distance-calculator_react-mapbox-gl/static/js/2.61a1cd38.chunk.js",
+    "static/js/2.61a1cd38.chunk.js.map": "/.github.io/distance-calculator_react-mapbox-gl/static/js/2.61a1cd38.chunk.js.map",
+    "index.html": "/.github.io/distance-calculator_react-mapbox-gl/index.html",
+    "precache-manifest.77f3a2588ff6d6ae303edbf8da252005.js": "/.github.io/distance-calculator_react-mapbox-gl/precache-manifest.77f3a2588ff6d6ae303edbf8da252005.js",
+    "service-worker.js": "/.github.io/distance-calculator_react-mapbox-gl/service-worker.js",
+    "static/css/2.0a5b19c0.chunk.css.map": "/.github.io/distance-calculator_react-mapbox-gl/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.9134aa92.chunk.css.map": "/.github.io/distance-calculator_react-mapbox-gl/static/css/main.9134aa92.chunk.css.map",
+    "static/js/2.61a1cd38.chunk.js.LICENSE.txt": "/.github.io/distance-calculator_react-mapbox-gl/static/js/2.61a1cd38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b189a3e.js",
+    "static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.61a1cd38.chunk.js",
+    "static/css/main.9134aa92.chunk.css",
+    "static/js/main.f9bd15d3.chunk.js"
+  ]
+}
