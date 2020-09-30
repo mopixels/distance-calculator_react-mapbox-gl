@@ -18,3 +18,5 @@ Then, open [http://localhost:3000](http://localhost:3000) to view it in the brow
 
 In this application you can measure distance between selected points. App adapts to different screen sizes.
 State in this app is managed via React-redux. On every click event is dispatched to redux and then required data is displayed.
+
+Link https://mopixels.github.io/distance-calculator_react-mapbox-gl/
